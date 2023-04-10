@@ -1,0 +1,59 @@
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Online kupovina.exe.config
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Online kupovina.exe
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Online kupovina.pdb
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.AssemblyReference.cache
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Login.resources
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Properties.Resources.resources
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.GenerateResource.cache
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.CoreCompileInputs.cache
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.exe
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.pdb
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Register.resources
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\MySql.Data.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Google.Protobuf.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Zstandard.Net.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\System.Memory.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\System.Buffers.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\bin\Debug\MySql.Data.xml
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.CopyComplete
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Main.resources
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Korpa.resources
+C:\Users\Boyko\Desktop\Bojana fax\projekti za druge ljude\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Kupi.resources
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Online kupovina.exe.config
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Online kupovina.exe
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Online kupovina.pdb
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Google.Protobuf.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Zstandard.Net.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\System.Memory.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\System.Buffers.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\MySql.Data.xml
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.AssemblyReference.cache
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Korpa.resources
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Kupi.resources
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Login.resources
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Main.resources
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Properties.Resources.resources
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online_kupovina.Register.resources
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.GenerateResource.cache
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.CoreCompileInputs.cache
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.csproj.CopyComplete
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.exe
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.pdb
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\ZstdNet.dll
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Tiiina\Desktop\online_kupovina\Online kupovina\Online kupovina\obj\Debug\Online kupovina.exe.config
